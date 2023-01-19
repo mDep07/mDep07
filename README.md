@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Miguel Depiante
+- I'm a Software Developer
 - 🌱 I’m currently learning Nodejs with Typescript
 
 <!---
